@@ -1,0 +1,9 @@
+{
+"platformName":"Android",
+"deviceName":"emulator-5554",
+"platformVersion":"13.0",
+"automationName":"UiAutomator2",
+"appPackage":"com.claudivan.taskagenda",
+"appActivity":".Activities.MainActivity"
+
+}
